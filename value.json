@@ -1,0 +1,20 @@
+{
+    "name":"title",
+    "profile_pic":"link",
+    "linkedin_profile_link":"link",
+    "email":"1234@gmail.com",
+    "phone":12345566,
+    "company":"google",
+    "designation":"manager",
+    "location":"NY",
+    "about":"good",
+    "tags":["html","css"],
+    "languages":["english","hindi"],
+    "educations":[{
+        "schoolname":"",
+        "year":2019,
+        "degree":""
+    }],
+    "experience":[{}]
+
+}
